@@ -1,0 +1,11 @@
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-F_Cu.gtl'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-B_Cu.gbl'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-F_Paste.gtp'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-B_Paste.gbp'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-F_Silkscreen.gto'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-B_Silkscreen.gbo'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-F_Mask.gts'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-B_Mask.gbs'.
+Plotted to 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\New folder\DC-POWER-SUPPLY\DC-POWER-SUPPLY\DC-POWER-SUPPLY-job.gbrjob'.
+Info: Done.
